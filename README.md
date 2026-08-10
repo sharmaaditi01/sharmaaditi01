@@ -26,7 +26,6 @@
 - 🔭 Passionate about **Data Science, Machine Learning, and building real-world applications**
 - 🌱 Currently exploring advanced ML workflows and full-stack AI-integrated systems
 - 💡 I enjoy solving problems that turn raw data into decisions that matter
-- 📫 Reach me at **aditi28217@gmail.com**
 
 ---
 
